@@ -1,0 +1,4 @@
+APIS:
+    Bluemix IBM Cloud
+    Plaid
+    Docusign
